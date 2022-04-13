@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Hello
 
-This is my first project on Frontend Mentor. As I want to imporve my skills, I will gladly accept all advices and criticsm.
+This is my first project on Frontend Mentor. As I want to imporve my skills, I will gladly accept all advice and criticsm.
 
 ### Screenshot
 
