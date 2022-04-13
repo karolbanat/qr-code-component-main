@@ -12,8 +12,8 @@ This is my first project on Frontend Mentor. As I want to imporve my skills, I w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://karolbanat.github.io/qr-code-component-main/)
+- Solution URL: [Frontend Mentor solution page](https://www.frontendmentor.io/solutions/qr-code-component-SJiUlAEV9)
+- Live Site URL: [Live site](https://karolbanat.github.io/qr-code-component-main/)
 
 ## Author
 
