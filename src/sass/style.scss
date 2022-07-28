@@ -49,6 +49,7 @@ main {
 
 	&__qr-code {
 		border-radius: 10px;
+		animation: fade-in 2s ease;
 	}
 
 	&__body {
@@ -67,5 +68,15 @@ main {
 			font-size: 1.5rem;
 			color: var(--clr-grayish-blue);
 		}
+	}
+}
+
+// --- animations
+@keyframes fade-in {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
 	}
 }
